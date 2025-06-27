@@ -284,7 +284,8 @@ Header Style
 --------------------------------------------- 
 */
 .logo img{
-  max-height: 44px;
+  height: 44px;
+  width: 100px;
 }
 .logo{
   padding: 0px 60px;
